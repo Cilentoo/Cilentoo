@@ -33,7 +33,3 @@ No meu perfil, você encontrará projetos em **Java Spring Boot**, **JavaScript*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-cilento-6a3048258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
-
-![Snake animation](https://github.com/Cilentoo/Cilentoo/blob/output/github-contribution-grid-snake.svg)
-
----
