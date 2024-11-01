@@ -2,17 +2,18 @@
 
 No meu perfil, você encontrará projetos em **Java Spring Boot**, **JavaScript**, **React**, entre outros.
 
+---
 
-### 🚀 Stats
+### Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=transparent&hide_border=true" alt="GitHub streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cilentoo&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cilentoo&theme=transparent&hide_border=true" alt="GitHub streak"/>
 </div>
 
 ---
 
-### 🌟 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -27,8 +28,12 @@ No meu perfil, você encontrará projetos em **Java Spring Boot**, **JavaScript*
 
 ---
 
-### 🐍 Jogo da Cobrinha com Meus Repositórios
+### Conecte-se comigo em:
 
-![Snake animation](https://github.com/SeuUsuario/SeuUsuario/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-cilento-6a3048258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+![Snake animation](https://github.com/Cilentoo/Cilentoo/blob/output/github-contribution-grid-snake.svg)
 
 ---
