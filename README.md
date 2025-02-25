@@ -7,8 +7,8 @@ No meu perfil, você encontrará projetos em **Java Spring Boot**, **JavaScript*
 ### Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cilentoo&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Langs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cilentoo&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cilentoo&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cilentoo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs"/>
 </div>
 
 ---
